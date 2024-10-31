@@ -24,7 +24,7 @@ Encryptify is dedicated to helping users safeguard their online identities and s
 
 ## Contact
 For any inquiries, please reach out to us:
-- Email: [xyz@gmail.com](mailto:xyz@gmail.com)
+- Email: [ubedkhanuit@gmail.com](mailto:ubedkhanuit@gmail.com)
 - GitHub: [https://github.com/ubedkhn](https://github.com/ubedkhn)
 
 ## License
